@@ -1,0 +1,424 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1732558305
+!i10b 1
+!s100 dn=C=g@Wl=okkz1m]<2nI0
+I`6`^3=30GkefBo]F3U7Nj1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+Z3 dC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051
+w1731536462
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1732558305.000000
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@l@u
+vcpu
+R0
+Z8 !s110 1732558306
+!i10b 1
+!s100 f8Q`ZRNY;5iCF9em>HW[]3
+InP[:d^WF0lZF3`>3J8L`S1
+R2
+!s105 cpu_sv_unit
+S1
+R3
+w1732557368
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv
+L0 2
+R4
+r1
+!s85 0
+31
+Z9 !s108 1732558306.000000
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv|
+!i113 1
+R6
+R7
+vcpu_tb
+R0
+R8
+!i10b 1
+!s100 5nVnhFM>nB5e[LjfnlHcP3
+I:Vc@SkYLe^X[mW3oJ:FYj1
+R2
+!s105 cpu_tb_sv_unit
+S1
+R3
+w1732558303
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv
+L0 323
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv|
+!i113 1
+R6
+R7
+vdatapath
+R0
+R8
+!i10b 1
+!s100 zBUU[:n]biVOY39DWZECd1
+IaTgzh[S8DVHjIF^VF`cM?3
+R2
+!s105 datapath_sv_unit
+S1
+R3
+w1732340007
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv|
+!i113 1
+R6
+R7
+vDecoder
+R0
+R1
+!i10b 1
+!s100 Z4AVX_GCVf;@zl@Em3@;J2
+IHkJQl0XYZ;io`[Pn>;ZHI3
+R2
+Z10 !s105 regfile_sv_unit
+S1
+R3
+Z11 w1731535667
+Z12 8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv
+Z13 FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv
+L0 55
+R4
+r1
+!s85 0
+31
+R5
+Z14 !s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv|
+!i113 1
+R6
+R7
+n@decoder
+vfsmController
+R0
+R8
+!i10b 1
+!s100 ek^F_QW?B<L@G1OlHA8z<1
+IDn_QX@Xd_4iW]SlheGJ8S2
+R2
+Z16 !s105 fsmController_sv_unit
+S1
+R3
+w1732557258
+Z17 8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv
+Z18 FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv
+L0 90
+R4
+r1
+!s85 0
+31
+R9
+Z19 !s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv|
+!i113 1
+R6
+R7
+nfsm@controller
+vinstruct_dec
+R0
+Z21 !s110 1732389136
+!i10b 1
+!s100 PNgc]21a;EeSi7E4OenN31
+IL7ZTD`ci67z]0`oZKWI572
+R2
+R16
+S1
+R3
+Z22 w1732389131
+R17
+R18
+L0 332
+R4
+r1
+!s85 0
+31
+Z23 !s108 1732389135.000000
+R19
+R20
+!i113 1
+R6
+R7
+vinstructionDecoder
+R0
+R8
+!i10b 1
+!s100 RmBKLhA8hCSBfa0@_22H60
+I5I@XZK>IKd`0lD2HjV<nZ0
+R2
+!s105 instructionDecoder_sv_unit
+S1
+R3
+w1731871652
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv|
+!i113 1
+R6
+R7
+ninstruction@decoder
+vlab7_check_tb
+R0
+R1
+!i10b 1
+!s100 h`nFzjaPU?d[=cPX;KU7A1
+IS]J[][_QaP1gTZEHZ2B4F2
+R2
+!s105 lab7_autograder_check_sv_unit
+S1
+R3
+w1732385003
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv|
+!i113 1
+R6
+R7
+vlab7_top
+R0
+R1
+!i10b 1
+!s100 Zb]9@=i08I=5?6Z1b5GlR0
+IXaOoB6Cg<9SIV]QX<CL6Y3
+R2
+Z24 !s105 lab7_top_sv_unit
+S1
+R3
+Z25 w1732476101
+Z26 8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv
+Z27 FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+Z28 !s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv|
+Z29 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv|
+!i113 1
+R6
+R7
+vlab7_top_tb
+R0
+R8
+!i10b 1
+!s100 >W1XZ1<e?>V8@fGKGE_>V2
+I<_:1HGkOicFfd2d]=_SZJ2
+R2
+!s105 lab7_top_tb_sv_unit
+S1
+R3
+w1732556836
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv|
+!i113 1
+R6
+R7
+vRAM
+R0
+R1
+!i10b 1
+!s100 o_TACV[_]48biV]G]ZJF@2
+IYZAKMN`h[zXLH7?X;Ga0X1
+R2
+R24
+S1
+R3
+R25
+R26
+R27
+L0 100
+R4
+r1
+!s85 0
+31
+R5
+R28
+R29
+!i113 1
+R6
+R7
+n@r@a@m
+vregfile
+R0
+R1
+!i10b 1
+!s100 iHd:EMXhT20O8FGM__OeS2
+IOT`VLXXU;eTd47b?0f@1M3
+R2
+R10
+S1
+R3
+R11
+R12
+R13
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+vshifter
+R0
+R1
+!i10b 1
+!s100 01Co:ARJ;4M61=5<BH@B<3
+IJFFkl_0kREDmdSnkPez>K1
+R2
+!s105 shifter_sv_unit
+S1
+R3
+R11
+8C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv
+FC:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv|
+!i113 1
+R6
+R7
+vsseg
+R0
+R1
+!i10b 1
+!s100 dnoJ_1j[hzJT9[hER=0Gc0
+IPKQz1U@7i_k`N2]79;Jf11
+R2
+R24
+S1
+R3
+R25
+R26
+R27
+L0 124
+R4
+r1
+!s85 0
+31
+R5
+R28
+R29
+!i113 1
+R6
+R7
+vstate_cntrl
+R0
+R21
+!i10b 1
+!s100 =WhJh3f?8:Zl8Bk:6gQC63
+I<9?<6f5fIG5SE0_j;?cbc2
+R2
+R16
+S1
+R3
+R22
+R17
+R18
+L0 98
+R4
+r1
+!s85 0
+31
+R23
+R19
+R20
+!i113 1
+R6
+R7
+vvDFFE
+R0
+R1
+!i10b 1
+!s100 ?G<E2@NTF9Xc:S@K:7OY10
+Ig1L_VE=T_Vi>8jkC>j`8h0
+R2
+R10
+S1
+R3
+R11
+R12
+R13
+L0 40
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+nv@d@f@f@e

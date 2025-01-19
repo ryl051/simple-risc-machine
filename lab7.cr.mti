@@ -1,0 +1,82 @@
+C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_top
+-- Compiling module RAM
+-- Compiling module sseg
+
+Top level modules:
+	lab7_top
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/instructionDecoder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instructionDecoder
+
+Top level modules:
+	instructionDecoder
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_autograder_check.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_check_tb
+
+Top level modules:
+	lab7_check_tb
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/cpu_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu_tb
+
+Top level modules:
+	cpu_tb
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/shifter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/lab7_top_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_top_tb
+
+Top level modules:
+	lab7_top_tb
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/fsmController.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fsmController
+
+Top level modules:
+	fsmController
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+-- Compiling module vDFFE
+-- Compiling module Decoder
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv {1 {vlog -work work -sv -stats=none C:/Users/ryanl/UBC/CPEN211/lab-7-l1c-ryl051/datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}
